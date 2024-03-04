@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+    #!/usr/bin/env python3
 
 # This is a simple script to turn off the network interface for wlan0 and eth0
 
